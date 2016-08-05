@@ -1,0 +1,56 @@
+_repo: Venus-in-Furs_6852
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Savage, Fernanda
+    gutenberg_agent_id: '2221'
+    url: http://www.gutenberg.org/2009/agents/2221
+creator:
+  author:
+    agent_name: Sacher-Masoch, Leopold, Ritter von
+    birthdate: 1836
+    deathdate: 1895
+    gutenberg_agent_id: '2220'
+    url: http://www.gutenberg.org/2009/agents/2220
+    wikipedia: http://en.wikipedia.org/wiki/Leopold_von_Sacher-Masoch
+description: "Venus in Furs (German: Venus im Pelz) is a novella by the Austrian author\
+  \ Leopold von Sacher-Masoch, and the best known of his works. The novel was to be\
+  \ part of an epic series that Sacher-Masoch envisioned called Legacy of Cain. Venus\
+  \ in Furs was part of Love, the first volume of the series. It was published in\
+  \ 1870.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Erotic Fiction
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6852'
+  wikidata: Q677592
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sadomasochism -- Fiction'
+- !lcsh 'Erotic stories'
+- !lcc 'PT'
+- GITenberg
+title: Venus in Furs
+url: http://www.gutenberg.org/ebooks/6852
+wikipedia:
+- https://fr.wikipedia.org/wiki/La_V%C3%A9nus_%C3%A0_la_fourrure
+- https://sh.wikipedia.org/wiki/Venera_u_krznu
+- https://zh.wikipedia.org/wiki/%E7%A9%BF%E8%A3%98%E7%9A%AE%E7%9A%84%E7%BB%B4%E7%BA%B3%E6%96%AF
+- https://ja.wikipedia.org/wiki/%E6%AF%9B%E7%9A%AE%E3%82%92%E7%9D%80%E3%81%9F%E3%83%B4%E3%82%A3%E3%83%BC%E3%83%8A%E3%82%B9
+- https://pt.wikipedia.org/wiki/A_V%C3%AAnus_das_Peles
+- https://pl.wikipedia.org/wiki/Wenus_w_futrze
+- https://sv.wikipedia.org/wiki/Venus_i_p%C3%A4ls
+- https://de.wikipedia.org/wiki/Venus_im_Pelz
+- https://tr.wikipedia.org/wiki/K%C3%BCrkl%C3%BC_Ven%C3%BCs
+- https://es.wikipedia.org/wiki/La_Venus_de_las_pieles
+- https://en.wikipedia.org/wiki/Venus_in_Furs
+- https://it.wikipedia.org/wiki/Venere_in_pelliccia
+- https://uk.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B5%D1%80%D0%B0_%D0%B2_%D1%85%D1%83%D1%82%D1%80%D1%96
+- https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B5%D1%80%D0%B0_%D0%B2_%D0%BC%D0%B5%D1%85%D0%B0%D1%85
+- https://ca.wikipedia.org/wiki/La_Venus_de_les_pells
+- https://az.wikipedia.org/wiki/K%C3%BCrkl%C3%BC_Venera_(roman)
+- https://ko.wikipedia.org/wiki/%EB%AA%A8%ED%94%BC%EB%A5%BC_%EC%9E%85%EC%9D%80_%EB%B9%84%EB%84%88%EC%8A%A4
+- https://he.wikipedia.org/wiki/%D7%95%D7%A0%D7%95%D7%A1_%D7%91%D7%A4%D7%A8%D7%95%D7%95%D7%94
